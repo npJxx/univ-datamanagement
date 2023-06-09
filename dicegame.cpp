@@ -20,8 +20,8 @@ int main() {
   cout << "Total value:" << a + b << endl;
 
   if (a + b > 7) {
-    cout << "You won" << endl;
+    cout << name << " won" << endl;
   } else {
-    cout << "You lost" << endl;
+    cout << name << " lost" << endl;
   }
 }
